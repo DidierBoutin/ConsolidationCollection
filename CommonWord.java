@@ -14,7 +14,7 @@ import java.util.TreeSet;
 
 
 //									Mots communs - Consignes
-//
+//*******************
 //Écrire un programme qui permette d’afficher (un mot par ligne) les mots qui sont communs aux deux fichiers.
 //
 //Bonus

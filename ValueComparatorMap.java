@@ -19,7 +19,7 @@ import java.util.Comparator;
 	 }
 
 
-     //on implemente la comparaison,
+     //on implemente la comparaison,,
 	 //on trie d'abord sur la valeur de la plus grande à la plus peite
 	 //si elles sont égales, on trie sur la cle par orde alpahbétique
 	 public int compare(String a, String b) {    

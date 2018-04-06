@@ -107,7 +107,7 @@ public class WordNb extends CommonWord {
 		//init return TreeMap
 		TreeMap<String,Integer> m= new TreeMap<>();
 		int nbItemTot = 0;
-		//Master Loop on each item of l
+		//Master Loop on each item of l*
 		for(String s : l) {
 			//if MasterLoop never get current item, let's loop another time to count
 			//how time it appears		
