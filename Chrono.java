@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Chrono {
 
-	//tag chrono** co
+	//tag chrono** co도도도도도도도
 	
 	private  final String commentary;
 	//time chrono
