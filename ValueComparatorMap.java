@@ -9,7 +9,7 @@ import java.util.Comparator;
 	 
 	 Map<String, Integer> base;
 	 
-	 //en variable du constructeur on donne la map à trier sur la valeur et non la clé
+	 //en variable du %constructeur on donne la map à trier sur la valeur et non la clé
 	 public ValueComparatorMap() {
 		 this.base = null;
 	 }

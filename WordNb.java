@@ -23,7 +23,7 @@ import consolideCollections.CommonWord;
 
 //*******************CONSIGNES**************************************
 //Écrire un programme qui, pour un fichier, affiche le nombre d’occurrences de chaque mot.
-//
+//%
 //Bonus
 //
 //        prendre le nom de fichier / chemin en argument

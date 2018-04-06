@@ -17,7 +17,7 @@ import java.util.TreeSet;
 //*******************
 //Écrire un programme qui permette d’afficher (un mot par ligne) les mots qui sont communs aux deux fichiers.
 //
-//Bonus
+//Bonusµ
 //
 //        prendre les noms de fichiers / chemins en argument    : OK + testbench pour tester plusieurs solutions
 //        afficher les mots communs dans l’ordre alphabétique   : OK (recuperer les mots communs dans une liste de type set, 
